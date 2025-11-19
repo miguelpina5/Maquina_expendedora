@@ -1,2 +1,2 @@
-# Maquina expendedora
+# Máquina expendedora
 ## Blog de práctica
