@@ -1,2 +1,2 @@
-# Maquina_expendedora
-Repositorio para blog y código de la práctica
+# Maquina expendedora
+## Blog de práctica
